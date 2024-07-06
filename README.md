@@ -42,7 +42,7 @@ This project was broken down into three major insights, each represented by a Ju
 
 ## Results<a name="results"></a>
 
-Results were communicated in my medium post available [here](https://medium.com/@kknana556/data-driven-discoveries-for-airbnb-investors-5c5026054464).
+Results were communicated in my medium post available [here](https://external.ink?to=/medium.com/@kknana556/data-driven-discoveries-for-airbnb-investors-5c5026054464).
 
 ## Acknowledgements<a name="acknowledgements"></a>
 Author: Kike Obayemi <br>
