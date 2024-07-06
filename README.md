@@ -46,7 +46,7 @@ Results were communicated in my medium post available [here](https://medium.com/
 
 ## Acknowledgements<a name="acknowledgements"></a>
 Author: Kike Obayemi <br>
-Boston Airbnb Open Data is available on Kaggle [here](https://www.kaggle.com/datasets/airbnb/boston/data)
+Boston Airbnb Open Data is available on [Kaggle](https://www.kaggle.com/datasets/airbnb/boston/data)
 
 :)
 
