@@ -45,7 +45,7 @@ This project was broken down into three major insights, each represented by a Ju
 Results were communicated in my medium post available [here](https://medium.com/@kknana556/data-driven-discoveries-for-airbnb-investors-5c5026054464).
 
 ## Acknowledgements<a name="acknowledgements"></a>
-Author: Kike Obayemi
+Author: Kike Obayemi <br>
 Boston Airbnb Open Data is available on Kaggle [here](https://www.kaggle.com/datasets/airbnb/boston/data)
 
 :)
