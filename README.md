@@ -24,9 +24,9 @@ https://www.kaggle.com/datasets/airbnb/boston/data
 
 I was motivated by my interest in investing in the Airbnb business, so i wanted to extract insights that airbnb investors could leverage to make strategic decisions and maximise returns:
 
-1. What kinds of properties command the highest rate in the market?
+1. What type of listings command the highest rate in the market?
 2. Do listing rates differ by location?
-3. What variables correlate well with rates? Can i predict the rate of a listings?
+3. What variables correlate well with rates? Can i predict the rate of a new listing?
 4. What is the demand for airbnb occupancy at various times of the year?
 
 
@@ -34,8 +34,8 @@ I was motivated by my interest in investing in the Airbnb business, so i wanted 
 ## File Descriptions <a name="files"></a>
 
 This project was broken down into three major insights, each represented by a Jupyter notebook file
-1. Project 1 Blog Post EDA.ipynb - contains EDA, descriptive statistics and ML predictions done on the "listings" dataset 
-2. Project 1 Blog Post Prediction.ipynb - continuation of the first file showing alternative ML algorithm
+1. Project 1 Blog Post EDA.ipynb - contains Exploratory Data Analysis, descriptive statistics and ML predictions done on the "listings" dataset 
+2. Project 1 Blog Post Prediction.ipynb - continuation of the first file showing alternative ML algorithm and comparing results.
 3. Project 1 Blog Post Analyzing Airbnb Occupancy Across Months.ipynb - contains analysis on Airbnb demand in Boston
 
 
