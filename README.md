@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/airbnb/boston/data
 
 ## Project Motivation<a name="motivation"></a>
 
-I was motivated by my interest in investing in the Airbnb business, so i wanted to extract insights that airbnb investors could leverage to make strategic decisions and maximise returns:
+I was motivated by my interest in investing in the Airbnb business, so i wanted to extract insights that airbnb investors could leverage to make some strategic decisions and maximise returns:
 
 1. What type of listings command the highest rate in the market?
 2. Do listing rates differ by location?
